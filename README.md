@@ -20,16 +20,16 @@
 
 
 ## 开始安装
-```
-> npm install
+```shell
+npm install
 ```
 
 
 *如果安装报错请切换淘宝镜像 `cnpm` 安装即可*
 
 ## 开始使用
-```
-> node index
+```shell
+node index
 ```
 
 ## 使用技巧
